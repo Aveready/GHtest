@@ -10,6 +10,8 @@ namespace GHtest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bye world");
+            Console.WriteLine("test");
         }
     }
 }
